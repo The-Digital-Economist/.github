@@ -5,8 +5,8 @@ We are committed to building a human-centered digital economy through interdisci
 
 :[AI Research](https://github.com/The-Digital-Economist/ai-papers)
 :[Blockchain Research](https://github.com/The-Digital-Economist/blockchain-papers)
-:[Governance](https://github.com/TheDigitalEconomist/governance-papers)
-:[Policy](https://github.com/TheDigitalEconomist/policy-papers)
-:[Sustainability](https://github.com/TheDigitalEconomist/sustainability-papers)
+:[Governance](https://github.com/The-Digital-Economist/governance-papers)
+:[Policy](https://github.com/The-Digital-Economist/policy-papers)
+:[Sustainability](https://github.com/The-Digital-Economist/sustainability-papers)
 ---
 :link: Visit us at: [https://thedigitaleconomist.com](https://thedigitaleconomist.com)
