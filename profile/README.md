@@ -1,5 +1,4 @@
-At The Digital Economist
-We are committed to building a human-centered digital economy through interdisciplinary research, strategy, and policy insights.
+At The Digital Economist, We are committed to building a human-centered digital economy through interdisciplinary research, strategy, and policy insights.
 ---
 Our Research Themes
 
