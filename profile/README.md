@@ -3,8 +3,8 @@ We are committed to building a human-centered digital economy through interdisci
 ---
 ##Our Research Themes
 
-:[AI Research](https://github.com/TheDigitalEconomist/ai-papers)
-:[Blockchain Research](https://github.com/TheDigitalEconomist/blockchain-papers)
+:[AI Research](https://github.com/The-Digital-Economist/ai-papers)
+:[Blockchain Research](https://github.com/The-Digital-Economist/blockchain-papers)
 :[Governance](https://github.com/TheDigitalEconomist/governance-papers)
 :[Policy](https://github.com/TheDigitalEconomist/policy-papers)
 :[Sustainability](https://github.com/TheDigitalEconomist/sustainability-papers)
