@@ -7,10 +7,15 @@ At The Digital Economist, we are committed to building a **human-centered digita
 ## Our Research Themes
 
 -> [AI](https://github.com/The-Digital-Economist/ai-papers)
+
 -> [Blockchain](https://github.com/The-Digital-Economist/blockchain-papers)
+
 -> [Governance](https://github.com/The-Digital-Economist/governance-papers)
+
 -> [Policy](https://github.com/The-Digital-Economist/policy-papers)
+
 -> [Sustainability](https://github.com/The-Digital-Economist/sustainability-papers)
+
 -> [Opinion Pieces](https://github.com/The-Digital-Economist/opinion-pieces)
 
 ---
