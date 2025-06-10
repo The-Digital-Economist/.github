@@ -1,17 +1,18 @@
-At The Digital Economist, We are committed to building a human-centered digital economy through interdisciplinary research, strategy, and policy insights.
+# The Digital Economist
+
+At The Digital Economist, we are committed to building a **human-centered digital economy** through interdisciplinary research, strategy, and policy insights.
+
 ---
-Our Research Themes
 
-->[AI](https://github.com/The-Digital-Economist/ai-papers)
+## Our Research Themes
 
-->[Blockchain](https://github.com/The-Digital-Economist/blockchain-papers)
+-> [AI](https://github.com/The-Digital-Economist/ai-papers)
+-> [Blockchain](https://github.com/The-Digital-Economist/blockchain-papers)
+-> [Governance](https://github.com/The-Digital-Economist/governance-papers)
+-> [Policy](https://github.com/The-Digital-Economist/policy-papers)
+-> [Sustainability](https://github.com/The-Digital-Economist/sustainability-papers)
+-> [Opinion Pieces](https://github.com/The-Digital-Economist/opinion-pieces)
 
-->[Governance](https://github.com/The-Digital-Economist/governance-papers)
-
-->[Policy](https://github.com/The-Digital-Economist/policy-papers)
-
-->[Sustainability](https://github.com/The-Digital-Economist/sustainability-papers)
-
-->[Opinion Pieces](https://github.com/The-Digital-Economist/opinion-pieces)
 ---
+
 :link: Visit us at: [https://thedigitaleconomist.com](https://thedigitaleconomist.com)
