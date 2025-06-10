@@ -12,5 +12,6 @@ Our Research Themes
 
 ->[Sustainability](https://github.com/The-Digital-Economist/sustainability-papers)
 
+[Opinion Pieces]
 ---
 :link: Visit us at: [https://thedigitaleconomist.com](https://thedigitaleconomist.com)
