@@ -33,6 +33,7 @@ Explore our research and insights across key areas:
 
 We welcome collaboration with researchers, policymakers, and ecosystem builders.  
 Interested in contributing? Reach out or open a pull request in the relevant repository.
+For more information, contact- fellowships@thedigitaleconomist.com
 
 ---
 
